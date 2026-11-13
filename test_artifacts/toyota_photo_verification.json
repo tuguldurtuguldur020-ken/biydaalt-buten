@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-13T10:39:05.714128+08:00",
+  "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-52.jpg",
+  "ok": true,
+  "detections": [
+    {
+      "bbox": [
+        0,
+        235,
+        720,
+        391
+      ],
+      "plate": "9638УЕН",
+      "detector_confidence": 0.396291047334671,
+      "ocr_confidence": 0.9999934434890747,
+      "raw_text": "9638УЕН"
+    }
+  ]
+}

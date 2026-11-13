@@ -1,0 +1,11 @@
+.venv/
+.setup_tmp/
+__pycache__/
+*.pyc
+data/
+build/
+dist/
+*.spec
+datasets/
+*.pt
+!models/README.md

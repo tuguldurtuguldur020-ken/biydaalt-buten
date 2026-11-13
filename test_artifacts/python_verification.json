@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-13T00:33:06.355708+08:00",
+  "source": "test_artifacts/synthetic_car.png",
+  "ok": true,
+  "detections": [
+    {
+      "bbox": [
+        411,
+        454,
+        967,
+        564
+      ],
+      "plate": "1234УБА",
+      "detector_confidence": 0.6321877837181091,
+      "ocr_confidence": 0.9999928810053624,
+      "raw_text": "1234УБА"
+    }
+  ]
+}

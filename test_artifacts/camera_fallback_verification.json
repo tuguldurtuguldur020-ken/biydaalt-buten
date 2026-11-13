@@ -1,0 +1,26 @@
+{
+  "kind": "real_camera",
+  "index": "2",
+  "preview_frames": 291,
+  "inference_frames": 3,
+  "errors": [],
+  "first_preview_seconds": 1.978,
+  "frame_shape": [
+    480,
+    640,
+    3
+  ],
+  "source": {
+    "kind": "camera",
+    "source": "0",
+    "backend": "DSHOW",
+    "shape": [
+      480,
+      640,
+      3
+    ]
+  },
+  "stopped": true,
+  "camera_reopened_after_stop": true,
+  "ok": true
+}

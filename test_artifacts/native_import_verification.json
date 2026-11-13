@@ -1,0 +1,30 @@
+{
+  "native_picker_found": true,
+  "filename_set": true,
+  "ok": true,
+  "injected_preview_memory_error": true,
+  "real_camera_preview_seconds": 2.121,
+  "real_camera_shape": [
+    480,
+    640,
+    3
+  ],
+  "real_camera_inference_frames": 3,
+  "preview_recovered": true,
+  "edit_ids": [
+    1148
+  ],
+  "plate": "9638УЕН",
+  "preview_shape": [
+    720,
+    720,
+    3
+  ],
+  "app_version": "PlateWatch 2.3.0 • Автомашины дугаар танигч",
+  "preview_tk_dimensions": [
+    184,
+    184
+  ],
+  "1113_schedule": "1113 • Хязгаарлах өдөр: Лхагва",
+  "1113_selected_date_result": "allowed"
+}

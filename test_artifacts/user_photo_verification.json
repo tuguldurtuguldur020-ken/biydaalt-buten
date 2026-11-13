@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-13T10:17:46.046845+08:00",
+  "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\900728487_1879880086353713_3986565288005235230_n.jpg",
+  "ok": true,
+  "detections": [
+    {
+      "bbox": [
+        58,
+        457,
+        390,
+        545
+      ],
+      "plate": "3892УНУ",
+      "detector_confidence": 0.9537885189056396,
+      "ocr_confidence": 0.9730372218851138,
+      "raw_text": "3892УНУ"
+    }
+  ]
+}

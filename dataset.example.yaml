@@ -1,0 +1,7 @@
+# Export Roboflow/CVAT as Ultralytics YOLO and adjust this path.
+path: ./datasets/mongolian_plates
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: license_plate
